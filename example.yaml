@@ -1,0 +1,39 @@
+version: 1.0
+
+directories: 
+  Downloads:
+    childs:
+      Chrome:
+      Edge:
+      Firefox:
+      Thunder:
+      WeGame:
+  Code:
+    childs:
+      private:
+          childs:
+            gitee.com:
+            github.com:
+            localhost:
+      public:
+          childs:
+            gitee.com:
+            github.com:
+  Program Files:
+  Program Files (x86):
+  Resource:
+    childs:
+      icons:
+      wallpaper:
+  Storage:
+  Tools:
+    childs:
+      bin:
+      pkg:
+      src:
+  Work:
+    childs:
+      packages:
+      project:
+      releases:
+
