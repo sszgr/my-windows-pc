@@ -8,17 +8,22 @@ directories:
       Firefox:
       Thunder:
       WeGame:
-  Code:
+  Develpoer:
     childs:
-      private:
-          childs:
-            gitee.com:
-            github.com:
-            localhost:
-      public:
-          childs:
-            gitee.com:
-            github.com:
+      gowork:
+        childs:
+          bin:
+          pkg:
+          src:
+            childs:
+              # ln -s ../../gitwork/github.com ./github.com
+              # github.com:
+              golang.org:
+      pywork:
+      shwork:
+      gitwork:
+        childs:
+          github.com:
   Program Files:
   Program Files (x86):
   Resource:
@@ -36,4 +41,3 @@ directories:
       packages:
       project:
       releases:
-

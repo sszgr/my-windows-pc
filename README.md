@@ -42,14 +42,16 @@ example.yaml
 │   └── icons
 ├── Program Files (x86)
 ├── Program Files
-├── Code
-│   ├── public
-│   │   ├── github.com
-│   │   └── gitee.com
-│   └── private
-│       ├── localhost
-│       ├── github.com
-│       └── gitee.com
+├── Develpoer
+│   ├── gitwork
+│   │   └── github.com
+│   ├── shwork
+│   ├── pywork
+│   └── gowork
+│       ├── src
+│       │   └── golang.org
+│       ├── pkg
+│       └── bin
 └── Downloads
     ├── WeGame
     ├── Thunder
